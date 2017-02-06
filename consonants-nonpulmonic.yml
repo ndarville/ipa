@@ -1,0 +1,20 @@
+clicks:
+    bilabial: "&#x0298;"
+    dental: "&#x01C0;"
+    postalveolar: "&#x01C3;"
+    palatoalveolar: "&#x01C1;"
+    alveolar_lateral: "&#x01C2;"
+
+voiced_implosives:
+    bilabial: "&#x0253;"
+    dental_or_alveolar: "&#x0257;"
+    palatal: "&#x0284;"
+    velar: "&#x0260;"
+    uvular: "&#x029B;"
+
+ejectives:
+    bilabial: "p&#x02BC;"
+    dental_or_alveolar: "t&#x02BC;"
+    etc: "&#x02BC;"
+    velar: "k&#x02BC;"
+    alveolar_fricative: "s&#x02BC;"
