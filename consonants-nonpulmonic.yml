@@ -2,8 +2,8 @@ clicks:
     bilabial: "&#x0298;"
     dental: "&#x01C0;"
     postalveolar: "&#x01C3;"
-    palatoalveolar: "&#x01C1;"
-    alveolar_lateral: "&#x01C2;"
+    palatoalveolar: "&#x01C2;"
+    alveolar_lateral: "&#x01C1;"
 
 voiced_implosives:
     bilabial: "&#x0253;"
