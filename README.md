@@ -16,7 +16,12 @@ with
 voiceless: &blank whateveryouwant
 ```
 
+Reference
+---------
+This is based on [the official IPA chart of 2015][reference].
+
 
 [my website]: http://ndarville.com/asides/ipa
 [liquid]: http://shopify.github.io/liquid/
 [jekyll]: https://jekyllrb.com
+[reference]: https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(revised_to_2015).pdf
