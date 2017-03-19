@@ -1,279 +1,279 @@
 plosive:
     bilabial:
-        aspirated: p
-        voiceless: b
+        aspirated:   p
+        unaspirated: b
     labiodental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: t
-        voiceless: d
+        aspirated:   t
+        unaspirated: d
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: "&#x1E6D;"
-        voiceless: "&#x0256;"
+        aspirated:   "&#x1E6D;"
+        unaspirated: "&#x0256;"
     palatal:
-        aspirated: c
-        voiceless: "&#x025F;"
+        aspirated:   c
+        unaspirated: "&#x025F;"
     velar:
-        aspirated: k
-        voiceless: g
+        aspirated:   k
+        unaspirated: g
     uvular:
-        aspirated: q
-        voiceless: "&#x0262;"
+        aspirated:   q
+        unaspirated: "&#x0262;"
     pharyngeal:
-        aspirated: ~
-        voiceless: &blank blank
+        aspirated:   ~
+        unaspirated: &blank blank
     glottal:
-        aspirated: "&#x0294;"
-        voiceless: *blank
+        aspirated:   "&#x0294;"
+        unaspirated: *blank
 
 nasal:
     bilabial:
-        aspirated: ~
-        voiceless: m
+        aspirated:   ~
+        unaspirated: m
     labiodental:
-        aspirated: ~
-        voiceless: "&#x0271;"
+        aspirated:   ~
+        unaspirated: "&#x0271;"
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: ~
-        voiceless: n
+        aspirated:   ~
+        unaspirated: n
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: "&#x0273;"
+        aspirated:   ~
+        unaspirated: "&#x0273;"
     palatal:
-        aspirated: ~
-        voiceless: "&#x0272;"
+        aspirated:   ~
+        unaspirated: "&#x0272;"
     velar:
-        aspirated: ~
-        voiceless: "&#x014B;"
+        aspirated:   ~
+        unaspirated: "&#x014B;"
     uvular:
-        aspirated: ~
-        voiceless: "&#x0274;"
+        aspirated:   ~
+        unaspirated: "&#x0274;"
     pharyngeal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
 
 trill:
     bilabial:
-        aspirated: ~
-        voiceless: "&#x0299;"
+        aspirated:   ~
+        unaspirated: "&#x0299;"
     labiodental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: ~
-        voiceless: r
+        aspirated:   ~
+        unaspirated: r
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     palatal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     velar:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     uvular:
-        aspirated: ~
-        voiceless: "&#x0280;"
+        aspirated:   ~
+        unaspirated: "&#x0280;"
     pharyngeal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
 
 tap_or_flap:
     bilabial:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     labiodental:
-        aspirated: ~
-        voiceless: "&#x2C71;"
+        aspirated:   ~
+        unaspirated: "&#x2C71;"
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: ~
-        voiceless: "&#x027A;"
+        aspirated:   ~
+        unaspirated: "&#x027A;"
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: "&#x027D;"
+        aspirated:   ~
+        unaspirated: "&#x027D;"
     palatal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     velar:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     uvular:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     pharyngeal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
 
 fricative:
     bilabial:
-        aspirated: "&#x0278;"
-        voiceless: "&#x03B2;"
+        aspirated:   "&#x0278;"
+        unaspirated: "&#x03B2;"
     labiodental:
-        aspirated: f
-        voiceless: v
+        aspirated:   f
+        unaspirated: v
     dental:
-        aspirated: "&#x03B8;"
-        voiceless: "&#x00F0;"
+        aspirated:   "&#x03B8;"
+        unaspirated: "&#x00F0;"
     alveolar:
-        aspirated: s
-        voiceless: z
+        aspirated:   s
+        unaspirated: z
     postalveolar:
-        aspirated: "&#x0283;"
-        voiceless: "&#x0292;"
+        aspirated:   "&#x0283;"
+        unaspirated: "&#x0292;"
     retroflex:
-        aspirated: "&#x0282;"
-        voiceless: "&#x0290;"
+        aspirated:   "&#x0282;"
+        unaspirated: "&#x0290;"
     palatal:
-        aspirated: "&#x00E7;"
-        voiceless: "&#x029D;"
+        aspirated:   "&#x00E7;"
+        unaspirated: "&#x029D;"
     velar:
-        aspirated: x
-        voiceless: "&#x0263;"
+        aspirated:   x
+        unaspirated: "&#x0263;"
     uvular:
-        aspirated: "&#x03C7;"
-        voiceless: "&#x0281;"
+        aspirated:   "&#x03C7;"
+        unaspirated: "&#x0281;"
     pharyngeal:
-        aspirated: "&#x0127;"
-        voiceless: "&#x0295;"
+        aspirated:   "&#x0127;"
+        unaspirated: "&#x0295;"
     glottal:
-        aspirated: h
-        voiceless: "&#x0266;"
+        aspirated:   h
+        unaspirated: "&#x0266;"
 
 lateral_fricative:
     bilabial:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     labiodental:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: "&#x026C;"
-        voiceless: "&#x026E;"
+        aspirated:   "&#x026C;"
+        unaspirated: "&#x026E;"
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     palatal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     velar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     uvular:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     pharyngeal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
 
 approximant:
     bilabial:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     labiodental:
-        aspirated: ~
-        voiceless: "&#x028B;"
+        aspirated:   ~
+        unaspirated: "&#x028B;"
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: ~
-        voiceless: "&#x0279;"
+        aspirated:   ~
+        unaspirated: "&#x0279;"
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: "&#x027B;"
+        aspirated:   ~
+        unaspirated: "&#x027B;"
     palatal:
-        aspirated: ~
-        voiceless: j
+        aspirated:   ~
+        unaspirated: j
     velar:
-        aspirated: ~
-        voiceless: "&#x0270;"
+        aspirated:   ~
+        unaspirated: "&#x0270;"
     uvular:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     pharyngeal:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
 
 lateral_approximant:
     bilabial:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     labiodental:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     dental:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     alveolar:
-        aspirated: ~
-        voiceless: l
+        aspirated:   ~
+        unaspirated: l
     postalveolar:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     retroflex:
-        aspirated: ~
-        voiceless: "&#x026D;"
+        aspirated:   ~
+        unaspirated: "&#x026D;"
     palatal:
-        aspirated: ~
-        voiceless: "&#x028E;"
+        aspirated:   ~
+        unaspirated: "&#x028E;"
     velar:
-        aspirated: ~
-        voiceless: "&#x029F;"
+        aspirated:   ~
+        unaspirated: "&#x029F;"
     uvular:
-        aspirated: ~
-        voiceless: ~
+        aspirated:   ~
+        unaspirated: ~
     pharyngeal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
     glottal:
-        aspirated: *blank
-        voiceless: *blank
+        aspirated:   *blank
+        unaspirated: *blank
